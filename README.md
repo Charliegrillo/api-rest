@@ -10,7 +10,7 @@ npm install
 
 Se seleccionó como base de datos de la Api Rest, Sqlite para minimizar las dependecias de un manejador de BD
 
-**Ruta de ejecuión**
+**Ruta de ejecución**
 - http://localhost:3000/cotizacion/dolar
 - http://localhost:3000/cotizacion/real
 - http://localhost:3000/cotizacion/euro
